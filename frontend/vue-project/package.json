@@ -1,0 +1,22 @@
+{
+  "name": "girls-fashion-store",
+  "version": "1.0.0",
+  "description": "E-commerce store for girls' fashion built with Vue 3 and Firebase.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "firebase": "^10.12.3",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1",
+    "vite-plugin-vue-devtools": "^8.0.3"
+  }
+}
