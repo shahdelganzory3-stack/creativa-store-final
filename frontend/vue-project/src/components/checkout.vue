@@ -71,10 +71,10 @@
                         </li>
                     </ul>
                     <hr>
-                    <div class="d-flex justify-content-between align-items-center">
-                        <p class="h4 mb-0">Total:</p>
-                        <p class="display-6 text-danger fw-bold mb-0">{{ totalPrice }} EGP</p>
-                    </div>
+                <div class="d-flex justify-content-between align-items-center">
+                     <p class="h4 mb-0">Total:</p>
+                     <p class="display-6 text-danger fw-bold mb-0">{{ totalPrice }} EGP</p>
+                </div>
                 </div>
             </div>
         </div>
